@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "ESCO 1.1.1 based on the textembedding-gecko@latest",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/tabiya-tech/visualize-esco/main/embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/tabiya-tech/visualize-esco/main/codes.tsv"
+    }
+  ]
+}
